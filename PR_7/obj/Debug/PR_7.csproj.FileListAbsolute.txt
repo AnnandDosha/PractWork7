@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\занятия с Саньком\PR_7\PR_7\obj\Debug\PR_7.csprojAssemblyReference.cache
+C:\Users\User\Desktop\занятия с Саньком\PR_7\PR_7\obj\Debug\PR_7.FileList.resources
+C:\Users\User\Desktop\занятия с Саньком\PR_7\PR_7\obj\Debug\PR_7.MainForm.resources
+C:\Users\User\Desktop\занятия с Саньком\PR_7\PR_7\obj\Debug\PR_7.Properties.Resources.resources
+C:\Users\User\Desktop\занятия с Саньком\PR_7\PR_7\obj\Debug\PR_7.PurchaseForm.resources
+C:\Users\User\Desktop\занятия с Саньком\PR_7\PR_7\obj\Debug\PR_7.csproj.GenerateResource.cache
+C:\Users\User\Desktop\занятия с Саньком\PR_7\PR_7\obj\Debug\PR_7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\занятия с Саньком\PR_7\PR_7\bin\Debug\PR_7.exe.config
+C:\Users\User\Desktop\занятия с Саньком\PR_7\PR_7\bin\Debug\PR_7.exe
+C:\Users\User\Desktop\занятия с Саньком\PR_7\PR_7\bin\Debug\PR_7.pdb
+C:\Users\User\Desktop\занятия с Саньком\PR_7\PR_7\obj\Debug\PR_7.RecordForm.resources
+C:\Users\User\Desktop\занятия с Саньком\PR_7\PR_7\obj\Debug\PR_7.RegistrationForm.resources
+C:\Users\User\Desktop\занятия с Саньком\PR_7\PR_7\obj\Debug\PR_7.exe
+C:\Users\User\Desktop\занятия с Саньком\PR_7\PR_7\obj\Debug\PR_7.pdb
